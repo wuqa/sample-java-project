@@ -3,3 +3,4 @@ add something 2
 test ssh
 test - git pull myurl master on local
 test - git remote add sshurl git@github.com:wuqa/sample-java-project.git
+test - git push sshurl master
