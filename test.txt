@@ -1,3 +1,4 @@
 add something
 add something 2
 test ssh
+test - git pull myurl master on local
